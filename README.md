@@ -13,3 +13,7 @@ Interactive filters and visualizations allow users to explore monthly sales tren
 **Key Skills Demonstrated:** Business Intelligence, Data Analysis, Dashboard Development, KPI Reporting, Data Visualization, DAX, and Performance Analytics.
 
 Developed by Hareem Jawad as part of a Business Analytics portfolio project showcasing practical business intelligence and reporting skills using Microsoft Power BI.
+
+
+
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
