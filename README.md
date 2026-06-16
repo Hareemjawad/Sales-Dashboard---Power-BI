@@ -1,130 +1,15 @@
-# Sales-Dashboard---Power-BI
-Coffee Shop Sales Dashboard | Power BI
-Project Overview
+# Coffee Shop Sales Dashboard
 
-This project presents an interactive Coffee Shop Sales Dashboard developed in Microsoft Power BI to analyze sales performance, product trends, customer purchasing behavior, and store-level revenue insights.
+This project is an interactive sales analytics dashboard built in Power BI using coffee shop transaction data. The dashboard provides a comprehensive overview of sales performance, customer purchasing behavior, product popularity, and store-level performance to support data-driven business decisions.
 
-The dashboard transforms raw transactional data into meaningful business intelligence, enabling decision-makers to identify top-performing products, monitor sales trends, and evaluate store performance.
+The dashboard analyzes over 149,000 transactions and 214,000 products sold, generating total sales of approximately $699K. Key performance indicators such as total sales, total quantity sold, total transactions, and average sale per transaction are presented to provide a quick snapshot of overall business performance.
 
-Objectives
+The analysis highlights top-performing products, with Barista Espresso emerging as the highest revenue-generating item. Product-level insights allow users to identify best-selling categories and compare revenue contributions across different beverages and food items. Store performance is also evaluated across Hell's Kitchen, Astoria, and Lower Manhattan, enabling comparison of sales and quantity sold by location.
 
-Analyze overall coffee shop sales performance.
+Interactive filters and visualizations allow users to explore monthly sales trends, product demand, and revenue distribution. These insights can help businesses optimize inventory management, identify high-performing products, improve operational efficiency, and develop data-driven growth strategies.
 
-Identify top-selling and highest-revenue products.
+**Tools Used:** Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
-Compare performance across different store locations.
+**Key Skills Demonstrated:** Business Intelligence, Data Analysis, Dashboard Development, KPI Reporting, Data Visualization, DAX, and Performance Analytics.
 
-Track transaction volumes and customer purchasing patterns.
-
-Generate actionable insights for business decision-making.
-
-Dashboard Features
-Executive KPIs
-
-Total Sales: $698.81K
-
-Total Quantity Sold: 214K
-
-Total Transactions: 149K
-
-Average Sale per Transaction: $4.69
-
-Product Analysis
-
-Top-performing product by revenue: Barista Espresso
-
-Quantity sold by product category.
-
-Revenue comparison across product details.
-
-Identification of best-selling beverages and bakery items.
-
-Store Performance Analysis
-
-Revenue comparison across: Hell's Kitchen, Astoria, and Lower Manhattan.
-
-Sales and quantity sold by location.
-
-Highest revenue day and store insights.
-
-Time-Based Analysis
-
-Monthly sales filtering.
-
-Trend analysis across different periods.
-
-Seasonal performance evaluation.
-
-Tools & Technologies
-
-Microsoft Power BI
-
-Power Query
-
-DAX (Data Analysis Expressions)
-
-Data Modeling
-
-Data Visualization
-
-Key Insights
-
-Barista Espresso generated the highest revenue among all products.
-
-Store sales were distributed relatively evenly across locations, with slight variations in performance.
-
-Beverage products contributed the majority of total sales.
-
-Average transaction value remained consistently around $4.69, indicating stable customer spending behavior.
-
-Dashboard Components
-
-KPI Cards
-
-Bar Charts
-
-Revenue Analysis
-
-Product Performance Dashboard
-
-Store Location Comparison
-
-Interactive Filters & Slicers
-
-Business Value
-
-This dashboard helps management:
-
-Monitor sales performance in real time.
-
-Identify high-demand products.
-
-Optimize inventory planning.
-
-Improve store-level decision making.
-
-Enhance revenue generation strategies.
-
-
-Author
-
-Hareem Jawad
-
-Business Analytics Student | Data Analytics Enthusiast | Power BI Developer
-
-Skills Demonstrated
-
-Business Intelligence
-
-Data Visualization
-
-Dashboard Design
-
-KPI Reporting
-
-Data Analysis
-
-DAX & Power BI
-
-If you found this project useful, consider giving the repository a star.
-
+Developed by Hareem Jawad as part of a Business Analytics portfolio project showcasing practical business intelligence and reporting skills using Microsoft Power BI.
