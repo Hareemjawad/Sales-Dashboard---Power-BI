@@ -16,4 +16,3 @@ Developed by Hareem Jawad as part of a Business Analytics portfolio project show
 
 
 
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
